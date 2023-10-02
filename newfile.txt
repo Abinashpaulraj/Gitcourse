@@ -1,3 +1,0 @@
-creds
-username:Abinash
-password: jfskfjds
